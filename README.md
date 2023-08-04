@@ -2,15 +2,14 @@
 
 I’m Ethan.L🙊, welcome to visit.
 
-[![](https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white)](https://ethanl-123.github.io/)
-[![](https://img.shields.io/badge/WeChat-07C160?style=flat&logo=wechat&logoColor=white)](#)
-[![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](#)
-[![](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/EthanL-123/)
+[![Github Pages](https://img.shields.io/badge/Github%20Pages-121013?style=flat&logo=github&logoColor=white)](https://ethanl-123.github.io/)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=flat&logo=wechat&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](#)
 
-[![](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](#)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](#)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](#)
-[![](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](#)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=fflat&logo=linkedin&logoColor=white)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?styleflat&logo=LeetCode&logoColor=#d16c06)](#)
 
 ## 😀 GitHub Stats
 
